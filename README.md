@@ -1,2 +1,4 @@
 # NewralAPIs
-Newral APIs for developers
+Newral APIs and sample projects for developers
+
+## Placeholder
