@@ -1,4 +1,4 @@
 # Invoice API
-Newral APIs and sample code for developers
+APIs and sample code for developers
 
 ## Placeholder
